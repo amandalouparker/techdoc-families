@@ -6,4 +6,4 @@ Article length distributions were plotted
 
 Silhouette analysis found 5 clusters to be reasonable
 
-Link to report:
+Link to report: [http://blog.amandalouparker.com/website-families-clustering-tech-docs/]
